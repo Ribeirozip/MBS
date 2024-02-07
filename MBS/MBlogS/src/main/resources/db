@@ -1,0 +1,25 @@
+CREATE TABLE IF NOT EXISTS user (
+    id_user INT PRIMARY KEY auto_increment UNIQUE NOT NULL,
+    email VARCHAR(255) UNIQUE NOT NULL,
+    username VARCHAR(255) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    photo varchar(255)
+);
+
+CREATE TABLE post (
+    id_post BIGINT auto_increment UNIQUE NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    image VARCHAR(255),
+    content TEXT NOT NULL,
+    user_id INT NOT NULL,
+    primary key (id_post),
+    foreign key (user_id) references user(id_user)
+);
+
+
+//pra criar o database
+CREATE DATABASE mbs;
+
+//pra setar o database
+use mbs;
+
