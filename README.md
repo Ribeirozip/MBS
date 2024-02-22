@@ -11,7 +11,7 @@
 </div>
 # TELAS DA API FUNCIONANDO
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Ribeirozip">
     <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drivesdk" alt="Logo">
   </a>
 
