@@ -1,5 +1,9 @@
 
 <a id="readme-top"></a>
+<a href="https://github.com/Ribeirozip">
+    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drive_link" alt="Logo">
+  </a>
+
 
   <h1 align="center">MBS - Mensagens de bem e sabedoria</h3>
 
@@ -12,7 +16,7 @@
 # TELAS DA API FUNCIONANDO
 <div align="center">
   <a href="https://github.com/Ribeirozip">
-    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drivesdk" alt="Logo">
+    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drive_link" alt="Logo">
   </a>
 
 
