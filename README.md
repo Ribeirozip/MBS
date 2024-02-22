@@ -12,7 +12,7 @@
 # TELAS DA API FUNCIONANDO
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img width="600" src="https://as2.ftcdn.net/v2/jpg/03/76/86/39/1000_F_376863986_GKD6WURNXnvQpyKlF0sRqb4C15NCO6DU.jpg" alt="Logo">
+    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drivesdk" alt="Logo">
   </a>
 
 
