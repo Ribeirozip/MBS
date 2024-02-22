@@ -1,7 +1,8 @@
 
 <a id="readme-top"></a>
-<a href="https://github.com/Ribeirozip">
-    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drive_link" alt="Logo">
+<div align="center">
+  <a href="https://github.com/Ribeirozip/MBS/blob/main/MBlogS/assets/19.jpg">
+    <img width="50%" src="https://github.com/Ribeirozip/MBS/blob/main/MBlogS/assets/19.jpg" alt="Logo">
   </a>
 
 
@@ -13,10 +14,12 @@
     <br />
   
 </div>
-# TELAS DA API FUNCIONANDO
+
+<h1 align="center">Telas da API funcionando</h3>
+
 <div align="center">
-  <a href="https://github.com/Ribeirozip">
-    <img width="600" src="https://drive.google.com/file/d/19OYSIbqL-pIET3FKOaGuV4GlwSrNz6Zb/view?usp=drive_link" alt="Logo">
+  <a href="https://github.com/Ribeirozip/MBS/blob/main/MBlogS/assets/22.jpg">
+    <img width="600" src="https://github.com/Ribeirozip/MBS/blob/main/MBlogS/assets/22.jpg" alt="Logo">
   </a>
 
 
